@@ -8,4 +8,4 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=soheilesm&show_icons=true)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=soheilesm&theme=blue-green)
+<!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=soheilesm&theme=blue-green) -->
