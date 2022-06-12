@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👨‍💻 I'm a Machine Learning Software Engineer at Meta.
+👨‍💻 I'm a Machine Learning Software Engineer at Meta
 
 📫 How to reach me? Email me at [soes@alumni.stanford.edu](mailto:soes@alumni.stanford.edu)
 
